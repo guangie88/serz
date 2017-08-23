@@ -1,0 +1,15 @@
+[submodule "deps/rapidxml"]
+	path = deps/rapidxml
+	url = https://github.com/timniederhausen/rapidxml.git
+[submodule "deps/rapidjson"]
+	path = deps/rapidjson
+	url = https://github.com/miloyip/rapidjson.git
+[submodule "deps/Catch"]
+	path = deps/Catch
+	url = https://github.com/philsquared/Catch.git
+[submodule "deps/rustfp"]
+	path = deps/rustfp
+	url = https://github.com/guangie88/rustfp.git
+[submodule "deps/fmt"]
+	path = deps/fmt
+	url = https://github.com/fmtlib/fmt.git
